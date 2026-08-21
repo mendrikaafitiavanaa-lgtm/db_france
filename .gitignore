@@ -22,4 +22,4 @@ logs/
 # Données
 *.db
 *.sqlite
-*.csv
+*.csv.env
